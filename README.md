@@ -1,4 +1,4 @@
-## ESetting up GraphQL,prisma Node/Express and PostgreSQL
+## Setting up GraphQL,prisma Node/Express and PostgreSQL
 
 - GraphQL
 - prisma
