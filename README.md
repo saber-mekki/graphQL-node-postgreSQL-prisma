@@ -47,6 +47,6 @@ navigate to `http://localhost:5000/api`
 try:
 `{ projects(id: 1) { title description } }`
 
-### feat
+### To Do
 
 use ts and prisma
